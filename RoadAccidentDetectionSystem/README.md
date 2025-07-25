@@ -5,9 +5,11 @@ This project is a road accident detection system using computer vision and deep 
 ---
 
 ## ⚙️ Setup Instructions
-It is recommended to download the ZIP file from the repository and open it in a code editor like Visual Studio Code. Navigate to the this folder ( RoadAccidentDetectionSystem) that contains all the system files and start running the commands in your terminal.
+It is recommended to download the ZIP file from the repository and open it in a code editor like Visual Studio Code. Navigate to the this folder ( RoadAccidentDetectionSystem) that contains all the system files and start running the commands in your terminal. 
 
 ```cd RoadAccidentDetectionSystem```
+
+#### Use a Python version below 3.12 to ensure compatibility with the project.
 
 ---
 
@@ -32,7 +34,7 @@ Once activated, your terminal will look like: <br>
 ```cd yolov5``` <br>
 ```pip install -r requirements.txt``` <br>
 
-## 5. **Return to Root Directory and Run the Program**
+## 5. **Return to RoadAccidentDetectionSystem Directory and Run the Program**
 ```cd ..``` <br>
 ``` python main.py```
 
