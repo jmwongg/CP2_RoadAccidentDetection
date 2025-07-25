@@ -18,7 +18,7 @@ python -m venv venv
 ### pip install -r requirements.txt
 
 # 4. **Clone Yolov5 repository and download requirements**
-### git clone https://github.com/ultralytics/yolov5.git yolov5
+### git clone https://github.com/ultralytics/yolov5.git 
 ### cd yolov5
 ### pip install -r requirements.txt
 
