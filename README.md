@@ -5,25 +5,25 @@ This project is a road accident detection system using computer vision and deep 
 ---
 
 ## ⚙️ Setup Instructions
-### 1. 🐍 **Create a Virtual Environment**
-# Windows
+# 1. **Create a Virtual Environment**
+### Windows
 python -m venv venv
 
-### 2. **Activate the environment**
-# Windows
+# 2. **Activate the environment**
+### Windows
 .\venv\Scripts\activate
 
-# Install all requirements
+# 3. Install all requirements
 pip install --upgrade pip
 pip install -r requirements.txt
 
-### 2. **Clone Yolov5 repository and download requirements**
+# 4. **Clone Yolov5 repository and download requirements**
 git clone https://github.com/ultralytics/yolov5.git yolov5
 cd yolov5
 pip install -r requirements.txt
 cd ..
 
-### 3. **Run the program**
+# 5. **Run the program**
 cd ..
 python main.py
 
