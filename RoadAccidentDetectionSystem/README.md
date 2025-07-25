@@ -45,11 +45,13 @@ When the system starts, it will prompt you to draw a restricted area on the scre
 2. After drawing, close the window to proceed.<br>
 3. A confirmation window will show the drawn area.<br>
 4. Close it again to start video analysis.<br>
-<img width="1107" height="836" alt="image" src="https://github.com/user-attachments/assets/30f75a59-faf5-40e6-af90-3df995df2afa" /> 
-<img width="1072" height="665" alt="image" src="https://github.com/user-attachments/assets/e6479ec3-e90f-4978-bc23-d9c26903ff8b" />
+<img width="1079" height="811" alt="image" src="https://github.com/user-attachments/assets/245501eb-0a4b-43d5-bc8b-8f9943f89f16" />
+<img width="1046" height="668" alt="image" src="https://github.com/user-attachments/assets/da53b3a4-48b9-49b4-972a-d078afd8a22d" />
+
 
  ## 📊 Sample Video Analysis
-<img width="1262" height="776" alt="image" src="https://github.com/user-attachments/assets/6eef4f8c-2f66-4a04-b630-24239aebf1e0" />
+<img width="1249" height="759" alt="image" src="https://github.com/user-attachments/assets/52e8230a-0df1-4cbf-9f53-8cac4f9c35a6" />
+
 
 ## 🎞️ Changing Test Cases
 
