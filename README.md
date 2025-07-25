@@ -14,18 +14,17 @@ python -m venv venv
 .\venv\Scripts\activate
 
 # 3. Install all requirements
-pip install --upgrade pip
-pip install -r requirements.txt
+### pip install --upgrade pip
+### pip install -r requirements.txt
 
 # 4. **Clone Yolov5 repository and download requirements**
-git clone https://github.com/ultralytics/yolov5.git yolov5
-cd yolov5
-pip install -r requirements.txt
-cd ..
+### git clone https://github.com/ultralytics/yolov5.git yolov5
+### cd yolov5
+### pip install -r requirements.txt
 
 # 5. **Run the program**
-cd ..
-python main.py
+### cd ..
+### python main.py
 
 
 
