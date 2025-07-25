@@ -4,7 +4,7 @@ The repository contains two folders:
 2. Image classification model folder
 --- 
 ## Road Accident Detection System
-Navigate to the directory and read the README section for instructions on how to run it.
+Navigate to the **RoadAccidentDetectionSystem**   directory and read the README section for instructions on how to run it.
 
 ---
 ## Image Classification Model Folder
