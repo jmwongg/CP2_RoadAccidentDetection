@@ -5,7 +5,9 @@ This project is a road accident detection system using computer vision and deep 
 ---
 
 ## ⚙️ Setup Instructions
-It is recommended to download the ZIP file from this repository and open it in a code editor like Visual Studio Code. Navigate to the root folder that contains all the system files and start running the commands in your terminal.
+It is recommended to download the ZIP file from the repository and open it in a code editor like Visual Studio Code. Navigate to the this folder ( RoadAccidentDetectionSystem) that contains all the system files and start running the commands in your terminal.
+
+```cd RoadAccidentDetectionSystem```
 
 ---
 
