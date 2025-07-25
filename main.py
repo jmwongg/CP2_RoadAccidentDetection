@@ -683,8 +683,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', type=str, default='yolov5s.pt', help='model.pt path')  # vehicle detection model
     parser.add_argument('--accident-weights', type=str, default='fineTunedClassifier.pt', help='accident classification model path') 
-    parser.add_argument('--source', type=str, default='TC5/video2.mp4', help='source')  # input video
-    parser.add_argument('--output', type=str, default='TC5_output/video2_output', help='output folder')  # output folder
+    parser.add_argument('--source', type=str, default='TC5/video1.mp4', help='source')  # input video
+    parser.add_argument('--output', type=str, default='TC5_output/video1_output', help='output folder')  # output folder
     parser.add_argument('--img-size', type=int, default=640, help='inference size (pixels)')
     parser.add_argument('--conf-thres', type=float, default=0.5, help='object confidence threshold')
     parser.add_argument('--iou-thres', type=float, default=0.5, help='IOU threshold for NMS')
